@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "build": "echo 'No build step!'"
+    "build": "node ./functions/app.js"
   },
   "keywords": [],
   "author": "",
